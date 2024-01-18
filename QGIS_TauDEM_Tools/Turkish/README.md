@@ -2,6 +2,8 @@
 
 Bu araç Terrain Analysis Using Digital Elevation Models (TauDEM) <a href="https://hydrology.usu.edu/taudem/taudem5/help53/D8ContributingArea.html">D8 Contributing Area</a> aracını kullanarak akış toplamayı hesaplamaktadır. 
 
+Bu arcın oluşturulması ve kullanılması ile ilgili videoya  <a href="https://youtu.be/YfWTaQFZR1c?feature=shared">bu linkten</a> ulaşabilirsiniz. 
+
 ### Bu araçların çalışabilmesi için aşağıdaki işlemlerin yapılması gerekmektedir: 
 - #### Python codelarını indirerek boşluk veya Türkçe karakter olmayan bir dosyaya koyunuz. Daha sonra QGIS Tarayıcı penceresinden bu dosyaya gelerek Python dosyasının üzerine iki kere tıklayınız.
 
